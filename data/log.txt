@@ -1,0 +1,4 @@
+C:\projects\job4j_elementary\target\elementary-1.0.jar
+C:\projects\job4j_tracker\target\original-tracker.jar
+C:\projects\job4j_tracker\target\tracker-1.0.jar
+C:\projects\job4j_tracker\target\tracker.jar
